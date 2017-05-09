@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>true</action>
+        <action_event>click</action_event>
+        <action_target/>
+        <action_target_ref display_value="x_snc_sample_regis_sample_registration_t">4cf847f6132e7200be5dfc5ed144b07a</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[Click on the new button]]></content>
+        <guide display_value="sample_tour">bbd847f6132e7200be5dfc5ed144b020</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 0</name>
+        <options/>
+        <order>0</order>
+        <placement>bottom</placement>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-09 16:20:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c0f807f6132e7200be5dfc5ed144b0de</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Step 0</sys_name>
+        <sys_package display_value="Sample Registration" source="x_snc_sample_regis">5ae6cb36132e7200be5dfc5ed144b0ce</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Sample Registration">5ae6cb36132e7200be5dfc5ed144b0ce</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_c0f807f6132e7200be5dfc5ed144b0de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-09 16:22:40</sys_updated_on>
+        <target/>
+        <target_ref display_value="x_snc_sample_regis_sample_registration_t">4cf847f6132e7200be5dfc5ed144b07a</target_ref>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>x_snc_sample_regis_sample_registration_table_list.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=c0f807f6132e7200be5dfc5ed144b0de"/>
+</record_update>
